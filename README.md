@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# geojson_flutter_map
-=======
-# geojson_flutter_map
-
-A new Flutter project.
->>>>>>> f72a247 (Initial Commit)
+# Flutter GeoJSON Map Plotter
+A Flutter project that enables you to plot GeoJSON data on Google Maps, providing a visually appealing and interactive way to explore geospatial information.
